@@ -1,10 +1,9 @@
 
 ##############################################################
 #   Ansible Templates for Ansible Servers                    #
-#   https://github.com/wevansprojects/MyAnsibleTemplates.git #
-#   Author: William John Evans                               #
 ##############################################################
 
+           
 README:
 This repo is for Ansible Templates. Here you will find my
 structure for setting up a new ansible server.
