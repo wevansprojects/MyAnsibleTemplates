@@ -12,7 +12,7 @@ Ansible can run on Debian or Redhat based distributions
  with little to no modification required.
 
 Choose your Linux Distribution. Wisely. 
-Once chosen you will find a whole multiple ansible playbooks
+Here you will find a whole multiple ansible playbooks
 each of which can be used for different administrative tasks.
 
 All playbook folders have a specific structure for their
